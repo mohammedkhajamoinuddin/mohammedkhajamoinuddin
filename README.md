@@ -1,4 +1,4 @@
-# Hi, I'm Mohammed Khaja Moinuddin 👋
+# Hi there 👋
 
 ### Software Engineer | Python | Azure | React | Data Engineering
 
