@@ -1,16 +1,75 @@
-## Hi there 👋
+# Hi, I'm Mohammed Khaja Moinuddin 👋
 
-<!--
-**mohammedkhajamoinuddin/mohammedkhajamoinuddin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | Python | Azure | React | Data Engineering
 
-Here are some ideas to get you started:
+I'm a Software Engineer passionate about building scalable applications, cloud solutions, and modern web experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on:
+- Azure Cloud & Observability
+- Data Engineering
+- Python Backend Development
+- React Applications
+- API Development
+
+---
+
+## Tech Stack
+
+### Languages
+- Python
+- JavaScript
+- SQL
+- Java
+
+### Frontend
+- React
+- HTML5
+- CSS3
+- Bootstrap
+
+### Backend
+- Node.js
+- Express.js
+
+### Cloud
+- Microsoft Azure
+- Azure Functions
+- Azure Monitor
+- Azure Service Bus
+- Application Insights
+- Azure Data Factory
+
+### Databases
+- SQL Server
+- MongoDB
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Postman
+
+---
+
+## Featured Projects
+
+- Jobby App
+- Hospital Management System
+- IPL Dashboard
+
+---
+
+## Currently Learning
+
+- Azure Data Engineering
+- Advanced React
+- System Design
+- FastAPI
+- Docker
+
+---
+
+## Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/mohammed-khaja-moinuddin05/
+- Email: mohammedkhajamoinuddin05@gmail.com
