@@ -1,163 +1,265 @@
-<!-- Futuristic profile header -->
-<div align="center">
+ <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050816,35:101B3D,70:123B68,100:00D4FF&text=MOHAMMED%20KHAJA%20MOINUDDIN&fontColor=F4FAFF&fontSize=32&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%E2%80%A2%20CLOUD%20%E2%80%A2%20DATA%20%E2%80%A2%20AI%20AUTOMATION&descAlignY=59&descSize=13&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,35:101B3D,70:123B68,100:00D4FF&text=MOHAMMED%20KHAJA%20MOINUDDIN&fontColor=F4FAFF&fontSize=32&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%E2%80%A2%20CLOUD%20%E2%80%A2%20DATA%20%E2%80%A2%20APPLIED%20AI&descAlignY=59&descSize=13&animation=fadeIn" alt="Mohammed Khaja Moinuddin — Software Engineer" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=800&color=48D9FF&center=true&vCenter=true&width=780&lines=Building+useful+software%2C+not+just+demos;Python+%7C+Azure+%7C+Data+Engineering;API+Observability+%7C+Workflow+Automation;Exploring+Generative+AI+and+intelligent+systems" alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=48D9FF&center=true&vCenter=true&width=780&lines=Building+useful+software+for+real+workflows;Python+%7C+Azure+%7C+Data+%7C+Applied+AI;Exploring+cloud+systems+and+intelligent+automation" alt="Building practical software across cloud, data, and applied AI" />
 
-<a href="https://www.linkedin.com/in/mohammed-khaja-moinuddin05/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/mohammedkhajamoinuddin?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore%20Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories"/></a>
-<a href="mailto:mohammedkhajamoinuddin05@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<br/>
+
+<a href="https://github.com/mohammedkhajamoinuddin">
+  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/mohammed-khaja-moinuddin05/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+</a>
 
 </div>
 
 ---
 
-## `01` / About
+## 01 / About Me
 
-I'm a **Software Engineer Trainee at Prolifics** focused on practical engineering across **Python, Microsoft Azure, data engineering, API observability, and AI-powered automation**.
+I'm a **Trainee Software Engineer at Prolifics**, interested in building practical software across cloud platforms, backend services, data engineering, and AI-powered automation.
 
-My experience spans enterprise engineering tasks and independent builds—from Azure monitoring and metadata-driven data pipelines to Python-based data intelligence services and AI workflows that connect APIs, language models, and automation platforms.
+My experience and projects span Python services, API integrations, Azure observability, data workflows, and applications that connect AI models with real-world user experiences.
 
-- **Enterprise engineering:** observability, telemetry, integration pipelines, validation, and resilient services.
-- **Engineering approach:** make interfaces explicit, test failure paths, and document how systems work.
-- **Builder mindset:** turn APIs and AI services into usable end-to-end applications.
+I enjoy understanding systems end to end — from how data moves through a pipeline to how services communicate, how failures are investigated, and how an idea becomes a usable application.
 
-## `02` / Engineering Focus
+- **Location:** Hyderabad, India
+- **Professional focus:** Software Engineering, Python, Azure, Data Engineering, and Applied AI
+- **Interests:** API engineering, workflow automation, observability, and intelligent applications
+- **Approach:** Build, test, document, learn, and improve.
+
+> Currently focused on strengthening my engineering fundamentals while building practical, end-to-end solutions.
+
+## 02 / Engineering Focus
+
+<div align="center">
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### ☁️ Cloud & Observability
-Azure API Management, Azure Monitor, Application Insights, Log Analytics (KQL), Azure Functions, Service Bus, telemetry, correlation traces, and operational dashboards.
+
+Working with Azure services and observability concepts to understand application health, telemetry, monitoring, and troubleshooting.
+
+**Areas of focus**
+- Azure API Management
+- Azure Monitor & Application Insights
+- Log Analytics and KQL
+- Distributed tracing concepts
+- Resilience patterns
 
 </td>
 <td width="50%" valign="top">
 
-### 🧱 Data Engineering
-Azure Data Factory, metadata-driven orchestration, CSV/JSON/Parquet ingestion, SQL integration, data validation, audit flows, and error handling.
+### 🐍 Backend & Data Engineering
+
+Building and exploring backend services, data-processing workflows, and metadata-driven integration patterns.
+
+**Areas of focus**
+- Python services and automation
+- SQL and relational data
+- API integration
+- Data validation and metadata
+- ETL workflows and pipeline orchestration
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🐍 Python & Data Intelligence
-Python services, data processing, PII detection, data classification, volumization, synthetic data generation, and JSON-based service contracts.
+### 🤖 Applied AI & Automation
+
+Connecting AI capabilities, external APIs, and workflow platforms to build useful applications.
+
+**Areas of focus**
+- Generative AI integrations
+- Google Gemini
+- n8n workflow automation
+- Text-to-speech integrations
+- Prompt and workflow design
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 AI & Workflow Automation
-n8n, Google Gemini, prompt engineering, REST API integrations, text-to-speech, OAuth-based integrations, and automated content workflows.
+### 💻 Application Engineering
+
+Developing user-facing applications and exploring the relationship between frontend interfaces, backend services, and APIs.
+
+**Areas of focus**
+- JavaScript and TypeScript
+- React
+- REST APIs
+- Frontend/backend integration
+- Git and collaborative development
 
 </td>
 </tr>
 </table>
 
-## `03` / Selected Work
+</div>
 
-<sub>Professional project summaries are intentionally high-level. Client-specific implementation details and internal code are not published here.</sub>
+## 03 / Featured Projects
 
-### ◈ Enterprise Engineering — Prolifics
-
-**API Observability | Campbell Soup Company project**
-- Worked with Azure observability components to investigate API behavior using telemetry, correlation traces, latency, failures, and exceptions.
-- Built and refined Application Insights / Azure Monitor queries and workbook views for operational troubleshooting.
-- Explored resilience patterns and Azure integration components for more reliable service communication.
-
-**Metadata-Driven Data Integration | Campbell Soup Company project**
-- Worked on Azure Data Factory pipelines driven by integration configuration.
-- Supported file-to-database and database-to-file patterns, including parameterized datasets and SQL procedures.
-- Worked through validation, run auditing, file handling, and pipeline troubleshooting across CSV, JSON, and Parquet scenarios.
-
-**TIDIUM — Data Intelligence Platform | Internal project**
-- Contributed to Python services for PII identification, data volumization, and synthetic data generation.
-- Worked with metadata and JSON outputs to support downstream processing and consistent service contracts.
-- Focused on data validation, debugging, and testing across the service flow.
-
-### ◈ Independent Builds
-
-<table>
-<tr>
-<td width="50%" valign="top">
+A selection of projects that demonstrate my interests in AI applications, API integration, automation, and software engineering.
 
 ### 🎙️ AI Podcast Generator
-An AI-powered podcast workflow that turns a topic into a script and generated speech, connecting a browser-based frontend with n8n, Google Gemini, and Murf AI.
 
-<a href="https://github.com/mohammedkhajamoinuddin/AI-Podcast-Generator"><img src="https://img.shields.io/badge/Explore%20Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore AI Podcast Generator"/></a>
+**Turn a topic into an AI-generated podcast.**
 
-</td>
-<td width="50%" valign="top">
+An AI-powered application that combines a browser-based frontend with an n8n workflow to generate podcast scripts and synthesize speech.
 
-### ⚙️ AI & Workflow Automation
-I build automation pipelines that connect AI models, APIs, content generation, and publishing steps. Browse my repositories for workflow exports and project-specific documentation.
+**What it demonstrates**
+- Google Gemini integration for script generation
+- Murf AI text-to-speech integration
+- Webhook-based communication between application and workflow
+- API orchestration and generated audio delivery
+- A frontend built and published using Lovable
 
-<a href="https://github.com/mohammedkhajamoinuddin?tab=repositories"><img src="https://img.shields.io/badge/Browse%20All%20Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="Browse repositories"/></a>
+**Technology:** React, TypeScript, n8n, Google Gemini, Murf AI, webhooks
 
-</td>
-</tr>
-</table>
+[**↗ View repository**](https://github.com/mohammedkhajamoinuddin/AI-Podcast-Generator)
 
-## `04` / Technology Stack
+---
+
+### 🧩 TIDIUM — Data Intelligence Services
+
+**Exploring data classification, volumization, and synthetic data generation.**
+
+Professional project experience involving Python-based services designed to support data intelligence and test-data workflows.
+
+**Areas of work**
+- PII detection and sensitive-column classification
+- Metadata-driven processing
+- Data volumization using source data and database structures
+- Synthetic data generation
+- Service integration and structured outputs
+
+**Technology:** Python, SQL, data validation, metadata, service integration
+
+*Professional project experience; implementation details and source code are not presented here as a public repository.*
+
+---
+
+### ☁️ Azure API Observability & Resilience
+
+**Making application behavior easier to monitor and troubleshoot.**
+
+Professional project experience involving API observability, telemetry, dashboards, sampling strategies, and resilience patterns in an Azure environment.
+
+**Areas of work**
+- Azure API Management and Application Insights
+- Azure Monitor, Log Analytics, and KQL
+- Telemetry correlation and troubleshooting
+- Dashboard and workbook development
+- Retry, circuit-breaker, and buffering concepts
+
+**Technology:** Microsoft Azure, APIM, Application Insights, Azure Monitor, KQL, Python
+
+*Client-related work is summarized at a high level to respect confidentiality.*
+
+---
+
+### 🛠️ Explore More
+
+Visit my repositories for additional experiments, applications, and workflow automation projects.
 
 <div align="center">
 
-**Languages & Application Development**
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express,html,css" alt="Python, JavaScript, TypeScript, React, Node.js, Express, HTML and CSS"/>
-
-**Cloud, Data & Developer Tools**
-
-<img src="https://skillicons.dev/icons?i=azure,mongodb,git,github,vscode,postman" alt="Azure, MongoDB, Git, GitHub, VS Code and Postman"/>
-
-<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini"/>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
-<img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Data Factory"/>
-<img src="https://img.shields.io/badge/Application%20Insights-68217A?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Application Insights"/>
-<img src="https://img.shields.io/badge/Azure%20Monitor-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Monitor"/>
-<img src="https://img.shields.io/badge/Murf%20AI-111827?style=for-the-badge&logoColor=white" alt="Murf AI"/>
+<a href="https://github.com/mohammedkhajamoinuddin?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE-ALL%20REPOSITORIES-123B68?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories" />
+</a>
 
 </div>
 
-<details>
-<summary><strong>More tools and concepts</strong></summary>
+## 04 / Technology Stack
 
-**Cloud & monitoring:** Azure API Management (APIM), Azure Functions, Azure Service Bus, Azure Monitor, Application Insights, Log Analytics, KQL, Azure Data Factory.
+### Languages
 
-**Backend & integration:** Python, REST APIs, JSON, SQL, Node.js, Express.js, Postman, OAuth 2.0.
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+</p>
 
-**Data:** SQL Server, MongoDB, Pandas, NumPy, data validation, metadata-driven processing.
+### Cloud, Data & Observability
 
-**AI & automation:** Google Gemini, n8n, Hugging Face, Stable Diffusion, ComfyUI, Murf AI, prompt engineering.
+<p>
+<img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
+<img src="https://img.shields.io/badge/Azure%20API%20Management-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure API Management" />
+<img src="https://img.shields.io/badge/Application%20Insights-68217A?style=flat-square&logo=microsoftazure&logoColor=white" alt="Application Insights" />
+<img src="https://img.shields.io/badge/Azure%20Monitor-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure Monitor" />
+<img src="https://img.shields.io/badge/KQL-005BA1?style=flat-square&logo=microsoftazure&logoColor=white" alt="KQL" />
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+</p>
 
-**Developer tools:** Git, GitHub, VS Code, Google Colab, Kaggle.
-</details>
+### Frameworks, AI & Automation
 
-## `05` / GitHub Activity
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+<img src="https://img.shields.io/badge/Murf%20AI-6C63FF?style=flat-square" alt="Murf AI" />
+<img src="https://img.shields.io/badge/REST%20APIs-2563EB?style=flat-square" alt="REST APIs" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+## 05 / Currently Learning
+
+I believe in continuous learning through implementation rather than collecting technologies.
+
+- Deepening my understanding of backend engineering, APIs, and software design.
+- Strengthening cloud observability, monitoring, and troubleshooting skills.
+- Improving data pipeline design, validation, and reliability.
+- Exploring enterprise application development and distributed data-processing concepts.
+
+*The technologies I explore will evolve as I build more projects and gain experience.*
+
+## 06 / Engineering Principles
+
+- **Build for clarity:** Prefer understandable designs and explicit interfaces.
+- **Validate at boundaries:** Treat inputs, API responses, and data contracts carefully.
+- **Design for failure:** Consider retries, timeouts, observability, and recovery.
+- **Document decisions:** Make projects easier for other developers to understand.
+- **Verify before claiming:** Test behavior and distinguish implemented features from future ideas.
+- **Keep learning practical:** Turn concepts into small, reviewable projects.
+
+## 07 / GitHub Activity
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mohammedkhajamoinuddin&show_icons=true&hide_border=true&bg_color=050816&title_color=48D9FF&icon_color=48D9FF&text_color=CBD5E1&rank_icon=github" alt="GitHub statistics"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedkhajamoinuddin&layout=compact&hide_border=true&bg_color=050816&title_color=48D9FF&text_color=CBD5E1" alt="Most used languages"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mohammedkhajamoinuddin&show_icons=true&hide_border=true&bg_color=050816&title_color=48D9FF&icon_color=48D9FF&text_color=CBD5E1&rank_icon=github" alt="GitHub profile statistics" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedkhajamoinuddin&layout=compact&hide_border=true&bg_color=050816&title_color=48D9FF&text_color=CBD5E1&langs_count=6" alt="Most used programming languages" />
+
 </div>
 
+<sub>Statistics are provided by a third-party service and may occasionally be unavailable or delayed. Language percentages reflect repository composition, not proficiency.</sub>
+
+## 08 / Let's Connect
+
+I'm interested in learning from other engineers, discussing practical software solutions, and collaborating on meaningful projects.
+
 <div align="center">
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedkhajamoinuddin&bg_color=050816&color=48D9FF&line=3B82F6&point=E2F7FF&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
-</div>
 
-## `06` / Connect
+<a href="https://www.linkedin.com/in/mohammed-khaja-moinuddin05/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+</a>
+<a href="https://github.com/mohammedkhajamoinuddin">
+  <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
+</a>
 
-<div align="center">
+<br/><br/>
 
-I'm interested in opportunities and conversations around **software engineering, Python, Azure, data engineering, observability, and applied AI**.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:00D4FF,50:123B68,100:050816" alt="" />
 
-<a href="https://www.linkedin.com/in/mohammed-khaja-moinuddin05/"><img src="https://img.shields.io/badge/LinkedIn-Mohammed%20Khaja%20Moinuddin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
-<a href="mailto:mohammedkhajamoinuddin05@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send email"/></a>
-
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:00D4FF,45:123B68,100:050816" width="100%" alt="Decorative blue gradient footer"/>
-
-<sub>Build thoughtfully. Integrate responsibly. Keep learning.</sub>
+<sub>Building steadily. Learning continuously. Shipping with purpose.</sub>
 
 </div>
